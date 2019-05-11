@@ -1,0 +1,9 @@
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/bin/Debug/GeoRefLocation.exe
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/bin/Debug/GeoRefLocation.pdb
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/obj/x86/Debug/GeoRefLocation.csprojAssemblyReference.cache
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/obj/x86/Debug/GeoRefLocation.csproj.CoreCompileInputs.cache
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/obj/x86/Debug/GeoRefLocation.exe
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/obj/x86/Debug/GeoRefLocation.pdb
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/bin/Debug/Newtonsoft.Json.dll
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/bin/Debug/Newtonsoft.Json.xml
+/Users/wakari/Projects/GeoRefLocation/GeoRefLocation/obj/x86/Debug/GeoRefLocation.csproj.CopyComplete
